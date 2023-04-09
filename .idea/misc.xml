@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/drawable/backback.xml" value="0.229" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/drawable/border.xml" value="0.229" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/drawable/circle_drawable.xml" value="0.229" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/drawable/corner_border_black.xml" value="0.229" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/drawable/corner_border_primary.xml" value="0.229" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/drawable/ic_baseline_airline_seat_legroom_normal_24.xml" value="0.229" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/drawable/ic_baseline_airline_seat_legroom_normal_40.xml" value="0.1235" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.229" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.14" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/drawable/ic_baseline_event_seat_40.xml" value="0.1235" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/drawable/ic_baseline_fastfood_24.xml" value="0.229" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.229" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.229" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/drawable/ic_baseline_local_phone_24.xml" value="0.229" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.229" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.229" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/drawable/ic_baseline_restaurant_menu_24.xml" value="0.229" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/drawable/ic_baseline_storage_24.xml" value="0.229" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/drawable/ic_baseline_wifi_protected_setup_24.xml" value="0.229" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/drawable/ic_launcher_background.xml" value="0.229" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/drawable/nextnext.xml" value="0.14" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/drawable/round_corner_categorytext.xml" value="0.14" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/font/baloo.xml" value="0.2838541666666667" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/font/bangers.xml" value="0.2838541666666667" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/font/muli_black.xml" value="0.2838541666666667" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/font/orbitron_medium.xml" value="0.2838541666666667" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/activity_bill_view.xml" value="0.26621847886098404" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/activity_set_luong_activiy.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/activity_static_thong_ke.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/addcategory_layout.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/addmenu_layout.xml" value="0.26621847886098404" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/addstaff_layout.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/addtable_layout.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/amount_menu_layout.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/custom_layout_displaycategory.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/custom_layout_displaymenu.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/custom_layout_displaystaff.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/custom_layout_displaystatistic.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/custom_layout_displaytable.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/custom_layout_paymentmenu.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/customer_luong.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/detailstatistic_layout.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/displaycategory_layout.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/displayhome_layout.xml" value="0.26621847886098404" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/displaymenu_layout.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/displaystaff_layout.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/displaystatistic_layout.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/displaytable_layout.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/edittable_layout.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/fragment_blank_luong.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/home_layout.xml" value="0.3020979020979021" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/login_layout.xml" value="0.20168066580377575" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/menu_navigation_header.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/payment_layout.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/register2nd_layout.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/register_layout.xml" value="0.26621847886098404" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/splash_layout.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/layout/welcome_layout.xml" value="0.22056159420289856" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/menu/edit_context_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/menu/item_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/menu/main_menu_navigation.xml" value="0.26621847886098404" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.229" />
+        <entry key="..\:/Android_Project/NewQLnhahang/QLnhahang/QLnhahang/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.229" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/addcategory_layout.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/addmenu_layout.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/addstaff_layout.xml" value="0.536" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/addtable_layout.xml" value="0.536" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/amount_menu_layout.xml" value="0.2" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/custom_layout_displaycategory.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/custom_layout_displaymenu.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/custom_layout_displaystaff.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/custom_layout_displaystatistic.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/custom_layout_displaytable.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/custom_layout_paymentmenu.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/detailstatistic_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/displaycategory_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/displayhome_layout.xml" value="0.4" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/displaymenu_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/displaystaff_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/displaystatistic_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/displaytable_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/edittable_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/home_layout.xml" value="0.3455571227080395" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/login_layout.xml" value="0.264" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/menu_navigation_header.xml" value="0.152" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/payment_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/register2nd_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/register_layout.xml" value="0.128125" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/splash_layout.xml" value="0.536" />
+        <entry key="..\:/Users/NEIL/Downloads/QLappdrink (1)/OrderDrinkApp/app/src/main/res/layout/welcome_layout.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

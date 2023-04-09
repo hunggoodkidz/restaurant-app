@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.BlankFragmentLuong"
+    android:background="#000000">
+
+    <GridView
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="5dp"
+        android:id="@+id/gvLuong"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:verticalSpacing="15dp"
+        tools:listitem="@layout/customer_luong"
+        android:layout_marginEnd="5dp">
+
+    </GridView>
+
+</LinearLayout>

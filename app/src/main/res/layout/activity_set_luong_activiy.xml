@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#A3FFFFFF"
+    tools:context=".Activities.SetLuongActiviy">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="50dp"
+            android:text="LƯƠNG"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:textStyle="bold"></TextView>
+
+        <TextView
+            android:id="@+id/tvMANV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="MÃ NHÂN VIÊN : "
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:textStyle="bold"></TextView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="LƯƠNG THƯỞNG :"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"></TextView>
+
+            <EditText
+                android:id="@+id/etLUONGTHUONG"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="VND"
+                android:inputType="number"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"></EditText>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="LƯƠNG PHẠT :"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"></TextView>
+
+            <EditText
+                android:id="@+id/etLUONGPHAT"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="VND"
+                android:inputType="number"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"></EditText>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SỐ GIỜ :"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"></TextView>
+
+            <EditText
+                android:id="@+id/etSOGIO"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="VND"
+                android:inputType="number"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"></EditText>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="THÁNG/NĂM :"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"></TextView>
+
+            <EditText
+                android:id="@+id/etTHANGNAM"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="MM/YYYY"
+                android:inputType="text"
+                android:textColor="@color/black"
+                android:textSize="25sp"
+                android:textStyle="bold"></EditText>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnSET"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:text="SET LƯƠNG"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:textStyle="bold"></Button>
+    </LinearLayout>
+</ScrollView>

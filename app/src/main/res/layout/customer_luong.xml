@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="15dp"
+    android:layout_marginLeft="5dp"
+    android:layout_marginBottom="5dp"
+    android:layout_marginStart="5dp">
+    <LinearLayout
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tongThogntin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nhân viên huy - chạy bàn"
+            android:textStyle="bold"
+            android:textSize="26sp"></TextView>
+        <TextView
+            android:id="@+id/tvTHANGNAM"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lương tháng 10/2022"
+            android:textStyle="bold"
+            android:textSize="26sp"></TextView>
+        <TextView
+            android:id="@+id/tvSOGIO"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Số giờ làm viêc: 25 x 25.000= 1000000"
+            android:textStyle="bold"
+            android:textSize="20sp"></TextView>
+        <TextView
+            android:id="@+id/tvLUONGTHUONG"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lương thưởng:     250.000"
+            android:textStyle="bold"
+            android:textSize="26sp"></TextView>
+        <TextView
+            android:id="@+id/tvLUONGPHAT"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lương phạt:       250.000"
+            android:textStyle="bold"
+            android:textSize="26sp"></TextView>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@color/black"/>
+        <TextView
+            android:id="@+id/tvTONGLUONG"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TỔNG LƯƠNG : 10000000"
+            android:textStyle="bold"
+            android:textSize="26sp"></TextView>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
